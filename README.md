@@ -23,9 +23,9 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 ---
 ## Repository Helper Files
-__docker_out.txt__ - for logging output obtained from making prediction using docker container
+_docker_out.txt_ - for logging output obtained from making prediction using docker container
 
-app.py - contains code for predictions
+*app.py* - contains code for predictions
 
 upload_docker.sh - shell script to push container to dockerhub
 
