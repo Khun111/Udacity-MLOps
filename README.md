@@ -25,25 +25,25 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 ## Repository Helper Files
 _docker_out.txt_ - for logging output obtained from making prediction using docker container
 
-*app.py* - contains code for predictions
+_app.py_ - contains code for predictions
 
-upload_docker.sh - shell script to push container to dockerhub
+_upload_docker.sh_ - shell script to push container to dockerhub
 
-Dockerfile - yaml file for building docker containter
+_Dockerfile_ - yaml file for building docker containter
 
-README.md - expounds on the details of the project
+_README.md_ - expounds on the details of the project
 
-kubernetes_out.txt - logging output of making prediction on building kubernetes pod
+_kubernetes_out.txt_ - logging output of making prediction on building kubernetes pod
 
-model_data - contains files from which prediction models are used
+_model_data_ - contains files from which prediction models are used
 
-make_predictions.sh - shell script for making predictions
+_make_predictions.sh_ - shell script for making predictions
 
-run_kubernetes.sh - shell script for aligning application with kubernetes
+_run_kubernetes.sh_ - shell script for aligning application with kubernetes
 
-Makefile - automates commands on the terminal 
+_Makefile_ - automates commands on the terminal 
 
-run_docker.sh - shell script for building docker image
+_run_docker.sh_ - shell script for building docker image
 
 
 ## Setup the Environment
