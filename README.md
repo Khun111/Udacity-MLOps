@@ -22,6 +22,29 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 **The final implementation of the project will showcase your abilities to operationalize production microservices.**
 
 ---
+## Repository Helper Files
+__docker_out.txt__ - for logging output obtained from making prediction using docker container
+
+app.py - contains code for predictions
+
+upload_docker.sh - shell script to push container to dockerhub
+
+Dockerfile - yaml file for building docker containter
+
+README.md - expounds on the details of the project
+
+kubernetes_out.txt - logging output of making prediction on building kubernetes pod
+
+model_data - contains files from which prediction models are used
+
+make_predictions.sh - shell script for making predictions
+
+run_kubernetes.sh - shell script for aligning application with kubernetes
+
+Makefile - automates commands on the terminal 
+
+run_docker.sh - shell script for building docker image
+
 
 ## Setup the Environment
 
